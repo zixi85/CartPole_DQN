@@ -38,7 +38,11 @@ Ablation Study -- Components:
    
    **Note**: when combining the plot from JSON file, make sure to add the Correct location of the JSON files of the result for Naive - Only TN - Only ER - TN & ER. 
 
-## Results
+<h3>📊 Example Results</h3>
+<p align="center">
+  <img src="results/component%20combine.png" width="350"/>
+  <img src="results/learning_rate_ablation.png" width="350"/>
+</p>
 
 Results from experiments are saved in the `results` directory. Plots and JSON files summarize the performance of different configurations.
 
