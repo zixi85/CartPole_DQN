@@ -34,13 +34,13 @@ Ablation studies were conducted on different hyperparameters:
 
 2. Run the main script:
    
-   python RLA1.py
+   python **RLA1.py**
    
    This will show the result of ablation study and Component Study, saved in PNG and JSON files independently.
 
-3. Visualize results:
+4. Visualize results:
    
-   python plotCombine.py
+   python **plotCombine.py**
    
    **Note**: when combining the plot from JSON file, make sure to add the Correct location of the JSON files of the result for Naive - Only TN - Only ER - TN & ER. 
 
