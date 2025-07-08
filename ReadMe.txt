@@ -42,11 +42,6 @@ Ablation Study -- Components:
 
 Results from experiments are saved in the `results` directory. Plots and JSON files summarize the performance of different configurations.
 
-## Dependencies
-
+## Requirements:
 - Python 3.8+
-- NumPy
-- PyTorch
-- Gymnasium
-- Matplotlib
-- TQDM
+- torch, gymnasium, matplotlib, numpy, tqdm
